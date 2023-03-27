@@ -1,0 +1,40 @@
+/* CREATE PAGE SPECIFIC STYLES */
+
+/* -------------------  MOBILE  --------------------- */
+
+header {
+  background-image: url('../img/race.png');
+  max-height: 500px;
+  padding: 0 15px;
+}
+
+h1 {
+  font-size: 56px;
+}
+
+form ul {
+  padding: 20px 0;
+}
+
+/* -------------------  TABLET  --------------------- */
+@media (min-width: 768px) {
+  header {
+    height: 100vh;
+    max-height: auto;
+    padding: 0 20px;
+  }
+
+  h1 {
+    font-size: 70px;
+  }
+}
+
+/* -------------------  DESKTOP  -------------------- */
+
+@media (min-width: 1224px) {
+}
+
+/* -------------------  LARGE SCREENS  -------------- */
+
+@media (min-width: 1824px) {
+}
