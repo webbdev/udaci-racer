@@ -7,7 +7,7 @@ In order to build this game, we need to run two things: the game engine API and 
 ### How to run
 
 1. git clone https://github.com/webbdev/udaci-racer.git
-2. cd racer
+2. cd udaci-racer
 3. Start the server
 4. In another terminal tab, start the frontend
 5. Navigate to http://localhost:3000
