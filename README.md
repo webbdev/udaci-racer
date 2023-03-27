@@ -37,4 +37,4 @@ If you still run into issues running the API server on your machine, you can run
 
 #### Start the Frontend
 
-First, run your preference of `npm install && npm start` or `yarn && yarn start` at the root of this project. Then you should be able to access http://localhost:3000.
+First, run your preference of `yarn && yarn start` at the root of this project. Then you should be able to access http://localhost:3000.
